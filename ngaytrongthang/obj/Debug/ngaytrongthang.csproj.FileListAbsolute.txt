@@ -1,0 +1,6 @@
+C:\Users\ronng\source\repos\ngaytrongthang\ngaytrongthang\bin\Debug\ngaytrongthang.exe.config
+C:\Users\ronng\source\repos\ngaytrongthang\ngaytrongthang\bin\Debug\ngaytrongthang.exe
+C:\Users\ronng\source\repos\ngaytrongthang\ngaytrongthang\bin\Debug\ngaytrongthang.pdb
+C:\Users\ronng\source\repos\ngaytrongthang\ngaytrongthang\obj\Debug\ngaytrongthang.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\ngaytrongthang\ngaytrongthang\obj\Debug\ngaytrongthang.exe
+C:\Users\ronng\source\repos\ngaytrongthang\ngaytrongthang\obj\Debug\ngaytrongthang.pdb
